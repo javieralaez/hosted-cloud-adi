@@ -1,8 +1,8 @@
 [submodule "submodule-one-deploy-validation"]
 	path = submodule-one-deploy-validation
-	url = git@github.com:OpenNebula/one-deploy-validation.git
+	url = git@github.com:javieralaez/one-deploy-validation.git
 	branch = master
 [submodule "submodule-one-deploy"]
 	path = submodule-one-deploy
-	url = git@github.com:OpenNebula/one-deploy.git
+	url = git@github.com:javieralaez/one-deploy.git
 	branch = master
