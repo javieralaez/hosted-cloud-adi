@@ -24,7 +24,8 @@
 >  1. Remove this note from the README.md
 >
 
-**TBA-cloud-provider**: logos of OpenNebula and the Cloud Provider
+
+<img width="1335" height="353" alt="logo_adi_opennebula" src="https://github.com/user-attachments/assets/4a1e25ac-6ef6-4ec2-8acd-abc49aa113c4" />
 
 # Deploying OpenNebula as a Hosted Cloud on TBA-cloud-provider
 
