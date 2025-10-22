@@ -13,7 +13,7 @@ all:
       evpn: false
 
     one_version: '7.0'
-    one_pass: '<<TBA>>'
+    one_pass: 'pass'
     db_backend: SQLite
     vn:
       pubridge:
